@@ -2,11 +2,9 @@
 
 Her er noen nyttige lenker til hjelpesidene hos Tripletex:
 
-- [Hjelpesider – Tripletex hjelpesenter](https://hjelp.tripletex.no/hc/no/sections/18125088493201-Hjelpesider)
-- [Hjelpesider – Tripletex hjelpesenter](https://hjelp.tripletex.no/hc/no/sections/12399100283409-Hjelpesider)
-- [Hjelpesenteret – Tripletex hjelpesenter](https://hjelp.tripletex.no/hc/no/articles/18733041724945-Hjelpesenteret)
+- [Hjelpesenteret – Tripletex hjelpesenter](https://hjelp.tripletex.no/hc/no)
 
-## Relevante Artikler
+## Relevante funksjonsområder
 
 ### Økonomi og Regnskap
 - [Regnskap](https://hjelp.tripletex.no/hc/no/categories/4404701766545-Regnskap)
@@ -19,6 +17,12 @@ Her er noen nyttige lenker til hjelpesidene hos Tripletex:
 
 ### Prosjektstyring
 - [Prosjekt](https://hjelp.tripletex.no/hc/no/categories/4404425043857-Prosjekt)
+
+### Årsoppgjør
+- [Årsoppgjør](https://hjelp.tripletex.no/hc/no/categories/12210444042385-%C3%85rsoppgj%C3%B8r)
+
+### Timeføring
+- [Timeføring](https://hjelp.tripletex.no/hc/no/categories/4404460631953-Timef%C3%B8ring)
 
 
 Disse lenkene og artiklene vil hjelpe deg med å finne svar på spørsmålene dine og få tips til hvordan du bruker Tripletex. 
