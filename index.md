@@ -1,10 +1,8 @@
 ﻿# Tripletex Hjelpesider
 
-Her er noen nyttige lenker til hjelpesidene hos Tripletex:
-
 - [Hjelpesenteret – Tripletex hjelpesenter](https://hjelp.tripletex.no/hc/no)
 
-## Relevante funksjonsområder
+## Funksjonsområder
 
 ### Økonomi og Regnskap
 - [Regnskap](https://hjelp.tripletex.no/hc/no/categories/4404701766545-Regnskap)
