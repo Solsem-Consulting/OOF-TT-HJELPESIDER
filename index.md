@@ -23,6 +23,6 @@
 - [Timeføring](https://hjelp.tripletex.no/hc/no/categories/4404460631953-Timef%C3%B8ring)
 
 
-Disse lenkene og artiklene vil hjelpe deg med å finne svar på spørsmålene dine og få tips til hvordan du bruker Tripletex. 
-Dersom du vil ha endret innholdet på disse sidene ta kontakt med [harry.solsem@solsem.no](mailto:harry.solsem@solsem.no) eller på tlf 91604600.
+#### Utvidelse og endringer av lenker
+- Disse lenkene og artiklene vil hjelpe deg med å finne svar på spørsmålene dine og få tips til hvordan du bruker Tripletex. Dersom du vil ha endret innholdet på disse sidene ta kontakt med [harry.solsem@solsem.no](mailto:harry.solsem@solsem.no) eller på tlf 91604600.
 
