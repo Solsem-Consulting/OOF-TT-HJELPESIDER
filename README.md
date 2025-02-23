@@ -1,4 +1,4 @@
-# OOF-TT-HJELPESIDER
+﻿# OOF-TT-HJELPESIDER
 Hjelpeside for Tripletex
 
 ## Live nettside
