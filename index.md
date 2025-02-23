@@ -25,5 +25,5 @@ Her er noen nyttige lenker til hjelpesidene hos Tripletex:
 - [Prosjektoppfølging i Tripletex](https://hjelp.tripletex.no/hc/no/articles/360001567890-Prosjektoppfølging-i-Tripletex)
 
 Disse lenkene og artiklene vil hjelpe deg med å finne svar på spørsmålene dine og få tips til hvordan du bruker Tripletex. 
-Dersom du vil ha endret innholdet på disse sidene ta kontakt med mailto:harry@solsem.no eller på tlf 91604600.
+Dersom du vil ha endret innholdet på disse sidene ta kontakt med [harry.solsem@solsem.no](mailto:harry.solsem@solsem.no) eller på tlf 91604600.
 
